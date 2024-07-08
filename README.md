@@ -1,10 +1,4 @@
-```diff
-- If you like this project, please consider giving it a star (*) and follow me at GitHub & YouTube.
-```
-[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/youtube.svg" width=40 height=50>](https://youtube.com/AmitShukla_AI)
-[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/github.svg" width=40 height=50>](https://github.com/AmitXShukla)
-[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/medium.svg" width=40 height=50>](https://medium.com/@Amit_Shukla)
-[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/twitter_1.svg" width=40 height=50>](https://twitter.com/ashuklax)
+
 
 <h2>Mobile Picture, GPS Tracking Attendance App</h2>
 <h4>A Mobile GPS, Picture Attendance App for storing Employee, Asset Picture Attendance with GPS Locations.</h4>
